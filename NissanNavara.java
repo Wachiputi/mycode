@@ -1,3 +1,4 @@
+//a child class inheriting from a parent class
 class NissanNavara extends vehicle{
     int model ;
     int registrationNumber;
